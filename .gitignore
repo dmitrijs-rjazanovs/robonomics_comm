@@ -64,11 +64,11 @@ instance/
 # Sphinx documentation
 docs/_build/
 
-# PyBuilder
+# PyBuilder #65
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter N #65
+.ipynb_chec #65
 
 # pyenv
 .python-version
@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# vs code
+.vscode/settings.json
+.vscode/c_cpp_properties.json
